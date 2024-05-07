@@ -1,0 +1,93 @@
+repo_name: ryangary321/twilio-conversations-demo-ios-swift
+report_id: 92a5ef07dec93c4a6178683cdc7efaef
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-07T00:50:56+00:00'
+requested_by: Gray-Wind
+provider: github
+branch: main
+detected_tools_count: 7
+tools:
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ryangary321/twilio-conversations-demo-ios-swift
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/ryangary321/twilio-conversations-demo-ios-swift
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ryangary321/twilio-conversations-demo-ios-swift
+  detection_source: Repo Metadata
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ryangary321/twilio-conversations-demo-ios-swift/blob/main/Gemfile
+  detection_source: Gemfile
+  last_updated_by: mkaboud
+  last_updated_on: 2022-07-07 18:04:00.000000000 Z
+- name: fastlane
+  description: Connect all iOS deployment tools into one streamlined workflow
+  website_url: https://fastlane.tools/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Mobile Continuous Integration
+  image_url: https://img.stackshare.io/service/2383/11098337.png
+  detection_source_url: https://github.com/ryangary321/twilio-conversations-demo-ios-swift/blob/main/Gemfile
+  detection_source: Gemfile
+  last_updated_by: mkaboud
+  last_updated_on: 2022-07-07 18:04:00.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ryangary321/twilio-conversations-demo-ios-swift
+  detection_source: Repo Metadata
+- name: xcpretty
+  description: Xcodebuild formatter designed to be piped with `xcodebuild`, and thus
+    keeping 100% compatibility
+  package_url: https://rubygems.org/xcpretty
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19625/default_0c27dd60ad71a3bb03b32c540d094735c1d3fd06.png
+  detection_source_url: https://github.com/ryangary321/twilio-conversations-demo-ios-swift/blob/main/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: mkaboud
+  last_updated_on: 2022-07-07 18:04:00.000000000 Z
